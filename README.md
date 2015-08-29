@@ -11,6 +11,7 @@ then run emerge --autounmask googleearth which will download and install googlee
 download the scripts folder from repo and run:
 
 make install
+
 ldconfig
 
 finally run the software using modes_rx -s osmocom
