@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libair_modes.so.0 -o libair_modes.so.0.0 CMakeFiles/air_modes.dir/preamble_impl.cc.o CMakeFiles/air_modes.dir/slicer_impl.cc.o CMakeFiles/air_modes.dir/modes_crc.cc.o -lboost_date_time-mt -lboost_program_options-mt -lboost_filesystem-mt -lboost_system-mt -lboost_thread-mt -lgnuradio-runtime -lgnuradio-pmt 

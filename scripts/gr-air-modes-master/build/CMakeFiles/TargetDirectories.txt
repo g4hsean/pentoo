@@ -1,0 +1,10 @@
+/root/Desktop/scripts/gr-air-modes-master/build/CMakeFiles/uninstall.dir
+/root/Desktop/scripts/gr-air-modes-master/build/swig/CMakeFiles/air_modes_swig_swig_2d0df.dir
+/root/Desktop/scripts/gr-air-modes-master/build/res/CMakeFiles/pygen_res_13676.dir
+/root/Desktop/scripts/gr-air-modes-master/build/swig/CMakeFiles/_air_modes_swig_swig_tag.dir
+/root/Desktop/scripts/gr-air-modes-master/build/lib/CMakeFiles/air_modes.dir
+/root/Desktop/scripts/gr-air-modes-master/build/swig/CMakeFiles/_air_modes_swig.dir
+/root/Desktop/scripts/gr-air-modes-master/build/python/CMakeFiles/pygen_python_91a0c.dir
+/root/Desktop/scripts/gr-air-modes-master/build/res/CMakeFiles/rx_ui.dir
+/root/Desktop/scripts/gr-air-modes-master/build/apps/CMakeFiles/pygen_apps_d4c4a.dir
+/root/Desktop/scripts/gr-air-modes-master/build/swig/CMakeFiles/pygen_swig_c1c56.dir
